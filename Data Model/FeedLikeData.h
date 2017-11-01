@@ -1,9 +1,8 @@
 //
 //  FeedLikeData.h
 //  HottieHunterDemo
-//
-//  Created by Samir Jwarchan on 23/6/13.
-//  Copyright (c) 2013 Ujjwal Shrestha. All rights reserved.
+
+//  Copyright (c) 2013 DesignOffshore. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
