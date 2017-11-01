@@ -1,9 +1,7 @@
 //
 //  AppDelegate.m
 //  HottieHunterDemo
-//
-//  Created by Ujjwal Shrestha on 02/06/2013.
-//  Copyright (c) 2013 Ujjwal Shrestha. All rights reserved.
+//  Copyright (c) 2013 designOffshore. All rights reserved.
 //
 
 #import "AppDelegate.h"
