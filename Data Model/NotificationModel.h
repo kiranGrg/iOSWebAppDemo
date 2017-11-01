@@ -2,8 +2,7 @@
 //  NotificationModel.h
 //  HottieHunterDemo
 //
-//  Created by Padam Krishna Prajapati on 12/03/14.
-//  Copyright (c) 2014 Ujjwal Shrestha. All rights reserved.
+//  Copyright (c) 2014 DesignOffshore. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
